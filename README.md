@@ -2,7 +2,7 @@
 
 
  Olá! Seja bem-vindo(a) ao meu GitHub!
-Meu nome é [Seu Nome] e sou estudante de Engenharia de Software. Tenho interesse pela área de tecnologia e desenvolvimento de sistemas, buscando constantemente aprender coisas novas e aprimorar minhas habilidades.
+Meu nome é João Miguel Monteiro LIma e sou estudante de Engenharia de Software. Tenho interesse pela área de tecnologia e desenvolvimento de sistemas, buscando constantemente aprender coisas novas e aprimorar minhas habilidades.
 
 📚 O que estou aprendendo?
 
